@@ -14,7 +14,7 @@ function MyComponent() {
 ```
 
 
-### Variables
+### Expressions
 
 ```javascript
 function MyComponent() {
